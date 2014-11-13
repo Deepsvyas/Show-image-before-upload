@@ -15,7 +15,7 @@ Html code here
 	</div>
 </div>
 <?php 
-/*
+/* 
 javascript function code here
 */?>
 <script type="text/javascript">
